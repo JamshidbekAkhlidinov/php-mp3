@@ -1,3 +1,4 @@
 # php-mp3
 
-Salom
+Musiqani qayta ishlash uchun.
+O'zim yozmaganman, SHunchaki o'zimga moslashtirganman.
